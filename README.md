@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, my name is Dichen Feng👋
+- 🌱 I'm currently studying computer science at UBCO ...
 
 <!--
 **dfeng111/dfeng111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
